@@ -1,2 +1,2 @@
-# Potato_Disease
-Dataset for Disease Classification
+# Potato Disease
+The dataset was compiled from numerous websites and validated by Bangladesh Agricultural Research Institute (BARI).
