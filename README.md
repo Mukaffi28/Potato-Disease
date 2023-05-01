@@ -1,4 +1,4 @@
-# Potato Disease
+# Potato Disease Dataset
 The dataset was compiled from numerous websites and validated by Bangladesh Agricultural Research Institute(BARI).
 For use, you have to citation it.
 
