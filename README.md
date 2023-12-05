@@ -4,7 +4,7 @@ The dataset was compiled from numerous websites and validated by Bangladesh Agri
 You are free to use and/or refer to the Potato Disease dataset in your own research as long as you credit the original paper. <br/>
 
 For citation:   
-@INPROCEEDINGS{10099162,
+@INPROCEEDINGS{10099162,<br/>
   author={Faria, Fatema Tuj Johora and Bin Moin, Mukaffi and Al Wase, Ahmed and Sani, Md. Rabius and Hasib, Khan Md and Alam, Mohammad Shafiul}, <br/>
   booktitle={2023 IEEE 13th Annual Computing and Communication Workshop and Conference (CCWC)}, <br/>
   title={Classification of Potato Disease with Digital Image Processing Technique: A Hybrid Deep Learning Framework}, <br/>
