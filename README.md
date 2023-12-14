@@ -18,3 +18,18 @@ For citation:
 
 published version: https://ieeexplore.ieee.org/document/10099162 <br/>
 ResearchGate Link: https://www.researchgate.net/publication/370123763
+
+# Disease Information
+
+| Disease Name   | Total Images | Causes of Disease |
+|----------------|--------------|-------------------|
+| Common scab    | 62           | Bacteria          |
+| Blackleg       | 60           | Bacteria          |
+| Dry rot        | 60           | Fungus            |
+| Pink rot       | 57           | Fungus            |
+| Black scurf    | 58           | Fungus            |
+| Healthy Potatoes| 80          | -                 |
+| Miscellaneous  | 74           | -                 |
+| **Total**      | **451**       | -                 |
+
+
