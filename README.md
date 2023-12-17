@@ -1,7 +1,7 @@
 # Potato Disease Dataset
 The dataset was compiled from numerous websites and validated by Bangladesh Agricultural Research Institute (BARI).
 
-You are free to use and/or refer to the Potato Disease dataset in your own research as long as you credit the original paper. <br/>
+You are welcome to use and/or refer to the Potato Disease dataset in your research as long as you credit the original paper. <br/>
 
 For citation:   
 @INPROCEEDINGS{10099162,<br/>
@@ -16,8 +16,8 @@ For citation:
   }<br/>
 
 
-published version: https://ieeexplore.ieee.org/document/10099162 <br/>
-ResearchGate Link: https://www.researchgate.net/publication/370123763
+Published version: https://ieeexplore.ieee.org/document/10099162 <br/>
+ResearchGate link: https://www.researchgate.net/publication/370123763
 
 # Disease Information
 
