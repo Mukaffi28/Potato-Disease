@@ -17,18 +17,20 @@ You are welcome to use and/or refer to the Potato Disease dataset in your resear
 | **Total**      | **451**      | -                 |
 
 
-# Citation BibTeX   
-@INPROCEEDINGS{10099162,<br/>
-  author={Faria, Fatema Tuj Johora and Bin Moin, Mukaffi and Al Wase, Ahmed and Sani, Md. Rabius and Hasib, Khan Md and Alam, Mohammad Shafiul}, <br/>
-  booktitle={2023 IEEE 13th Annual Computing and Communication Workshop and Conference (CCWC)}, <br/>
-  title={Classification of Potato Disease with Digital Image Processing Technique: A Hybrid Deep Learning Framework}, <br/>
-  year={2023},<br/>
-  volume={},<br/>
-  number={},<br/>
-  pages={0820-0826},<br/>
-  doi={10.1109/CCWC57344.2023.10099162}<br/>
-  }<br/>
+## BibTeX Citation
 
+```
+@INPROCEEDINGS{10099162,
+  author={Faria, Fatema Tuj Johora and Bin Moin, Mukaffi and Al Wase, Ahmed and Sani, Md. Rabius and Hasib, Khan Md and Alam, Mohammad Shafiul},
+  booktitle={2023 IEEE 13th Annual Computing and Communication Workshop and Conference (CCWC)}, 
+  title={Classification of Potato Disease with Digital Image Processing Technique: A Hybrid Deep Learning Framework}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={0820-0826},
+  doi={10.1109/CCWC57344.2023.10099162}}
+
+```
 # Paper Link
 Published version: https://ieeexplore.ieee.org/document/10099162 <br/>
 ResearchGate link: https://www.researchgate.net/publication/370123763
